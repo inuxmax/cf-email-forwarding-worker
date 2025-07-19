@@ -11,7 +11,7 @@
 		"enabled": true
 	},
 	"vars": {
-		"APP_API_URL": "https://inboxs.me/api/v1/email-catcher",
+		"APP_API_URL": "https://mx.inboxs.me/api/v1/email-catcher",
 		"ENABLE_ATTACHMENTS": "1"
 	},
 	"r2_buckets": [
